@@ -1,0 +1,80 @@
+html body {
+    
+    background-color: white;
+    background: url(https://wallpapers.com/images/featured/7sn5o1woonmklx1h.jpg);
+    
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+svg {
+    max-width: 15px;
+    max-height: 15px;
+    float: right;
+}
+
+button {
+    max-width: 15px;
+    max-height: 15px;
+    float: right;
+}
+
+code {
+    color: green;
+    font-size: 14px;
+}
+
+a {
+    color: black;
+}
+
+input, select {
+    float: right;
+}
+
+
+
+h1, 
+h2, 
+h3, 
+h4, 
+h5, 
+h6,
+div,
+section,
+p {
+    color: black;
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+
+}
+
+h1 {
+    font-size: 60px;
+}
+
+h2 {
+    font-size: 48px;
+}
+
+h3 {
+    font-size: 36px;
+}
+
+p {
+    word-spacing: 5px;
+    line-height: 2;
+    margin: 25px;
+    padding: 25px;
+}
+
+span {
+    font-weight: bold;
+}

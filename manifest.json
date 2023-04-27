@@ -1,0 +1,28 @@
+{
+
+    "manifest_version": 2,
+    "name": "ZGreader",
+    "description": "Makes websites easier to read.",
+    "version": "1.0",
+    "icons": {
+        "16": "/images/16a.png",
+        "48": "/images/48a.png",
+        "128": "/images/128a.png"
+    },
+    "page_action": {
+        "default_icon": {
+            
+            "16": "/images/16b.png",
+            "48": "/images/48b.png",
+            "128": "/images/128b.png"
+        }
+    },
+    "content_scripts": [{
+        "matches": ["https://*/*"],
+
+        "js": ["j.js"],
+        "css": ["style.css"]
+    }]
+
+
+}
