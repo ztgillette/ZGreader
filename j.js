@@ -35,7 +35,7 @@ text.forEach((p) => {
     p.innerHTML = "";
     for(let i=0; i<halvedArr.length; i+=2) {
 
-        p.innerHTML += "<span>" + halvedArr[i] + "</span>" + halvedArr[i+1] + " ";
+        p.innerHTML += "<span class=\"qweasdzxc\">" + halvedArr[i] + "</span>" + halvedArr[i+1] + " ";
 
     }
     
@@ -78,7 +78,7 @@ text1.forEach((p) => {
     p.innerHTML = "";
     for(let i=0; i<halvedArr.length; i+=2) {
 
-        p.innerHTML += "<span>" + halvedArr[i] + "</span>" + halvedArr[i+1] + " ";
+        p.innerHTML += "<span class=\"qweasdzxc\">" + halvedArr[i] + "</span>" + halvedArr[i+1] + " ";
 
     }
     
@@ -120,7 +120,7 @@ text1.forEach((p) => {
       p.innerHTML = "";
       for(let i=0; i<halvedArr.length; i+=2) {
   
-          p.innerHTML += "<span>" + halvedArr[i] + "</span>" + halvedArr[i+1] + " ";
+          p.innerHTML += "<span class=\"qweasdzxc\">" + halvedArr[i] + "</span>" + halvedArr[i+1] + " ";
   
       }
       
@@ -162,7 +162,7 @@ text3.forEach((p) => {
     p.innerHTML = "";
     for(let i=0; i<halvedArr.length; i+=2) {
 
-        p.innerHTML += "<span>" + halvedArr[i] + "</span>" + halvedArr[i+1] + " ";
+        p.innerHTML += "<span class=\"qweasdzxc\">" + halvedArr[i] + "</span>" + halvedArr[i+1] + " ";
 
     }
     
